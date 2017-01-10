@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@mipmap/ic_friends"
+            android:title="Друзі" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@mipmap/ic_map"
+            android:title="Мапа" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@mipmap/ic_chat"
+            android:title="Чат" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@mipmap/ic_info"
+            android:title="Інформація" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@mipmap/ic_events"
+            android:title="Події" />
+    </group>
+
+
+
+</menu>
